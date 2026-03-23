@@ -36,5 +36,7 @@ This project serves as a strong foundation for more advanced applications, such 
 
 output of the task :
 
-<img width="625" height="46" alt="Screenshot 2026-03-23 162807" src="https://github.com/user-attachments/assets/9cea80d2-495c-4a1a-b57b-881fcd4960da" />
-
+<img width="625" height="46" alt="Image" src="https://github.com/user-attachments/assets/e20d8edc-3755-4fda-8ec8-de2ef2b346a3" />
+<img width="747" height="141" alt="Image" src="https://github.com/user-attachments/assets/f3497f29-3143-48a4-90df-3ee16ed22344" />
+<img width="518" height="154" alt="Image" src="https://github.com/user-attachments/assets/c6921909-0730-44e1-bc4a-0087f85a4405" />
+<img width="448" height="70" alt="Image" src="https://github.com/user-attachments/assets/2cc49da0-feef-4d2e-bc71-810b0c1bcfb9" />
